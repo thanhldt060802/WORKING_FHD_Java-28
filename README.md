@@ -8,3 +8,7 @@
 
 - Ôn tập thao tác với mảng tĩnh.
 - Nghiên cứu thao tác với mảng động ArrayList.
+
+<h2>Buổi 15: Ôn tập OOP</h2>
+
+- Làm bài tập OOP 2.2 trên Notion.
