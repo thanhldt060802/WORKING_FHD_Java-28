@@ -82,9 +82,13 @@
     - Nghiên cứu thao tác với mảng động ArrayList.
 - Buổi 15: Ôn tập OOP.
     - Làm bài tập OOP 2.2 trên Notion.
-
 - Buổi 16: Ôn tập OOP.
     - Làm bài tập OOP 2.2 trên Notion (tt).
+- Buổi 17: Tính đa hình trong OOP.
+    - Tổng quan nội dung.
+    - Đối tượng (object) và thể hiện (instance).
+    - Ghi đề trong đa hình.
+    - Up-casting và Down-casting.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
