@@ -89,6 +89,9 @@
     - Đối tượng (object) và thể hiện (instance).
     - Ghi đề trong đa hình.
     - Up-casting và Down-casting.
+- Buổi 18: Ôn tập.
+    - Làm bài tập OOP 2.8 trên Notion.
+    - Nghiên cứu về bài toán tìm kiếm và sắp xếp.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
