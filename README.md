@@ -75,14 +75,14 @@
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
-- Buổi 13: Ôn tập OOP.
+- Buổi 13: Ôn tập.
     - Làm bài tập OOP 2.3 trên Notion.
 - Buổi 14: Nghiên cứu kiểu mảng động ArrayList.
     - Ôn tập thao tác với mảng tĩnh.
     - Nghiên cứu thao tác với mảng động ArrayList.
-- Buổi 15: Ôn tập OOP.
+- Buổi 15: Ôn tập.
     - Làm bài tập OOP 2.2 trên Notion.
-- Buổi 16: Ôn tập OOP.
+- Buổi 16: Ôn tập.
     - Làm bài tập OOP 2.2 trên Notion (tt).
 - Buổi 17: Tính đa hình trong OOP.
     - Tổng quan nội dung.
