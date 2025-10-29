@@ -92,6 +92,10 @@
 - Buổi 18: Ôn tập.
     - Làm bài tập OOP 2.8 trên Notion.
     - Nghiên cứu về bài toán tìm kiếm và sắp xếp.
+- Buổi 19: Tính trừu tượng trong OOP.
+    - Bài 2.10: Tính chất trừu tượng trong OOP.
+- Buổi 20: Interface trong Java.
+    - Bài 2.12: Interface trong Java.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
