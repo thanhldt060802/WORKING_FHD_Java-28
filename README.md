@@ -75,29 +75,36 @@
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
-- Buổi 13 (13/10): Ôn tập.
+- Buổi 13: Ôn tập.
     - Làm bài tập OOP 2.3 trên Notion.
-- Buổi 14 (15/10): Nghiên cứu kiểu mảng động ArrayList.
+- Buổi 14: Nghiên cứu kiểu mảng động ArrayList.
     - Ôn tập thao tác với mảng tĩnh.
     - Nghiên cứu thao tác với mảng động ArrayList.
-- Buổi 15 (17/10): Ôn tập.
+- Buổi 15: Ôn tập.
     - Làm bài tập OOP 2.2 trên Notion.
-- Buổi 16 (20/10): Ôn tập.
+- Buổi 16: Ôn tập.
     - Làm bài tập OOP 2.2 trên Notion (tt).
-- Buổi 17 (22/10): Tính đa hình trong OOP.
+- Buổi 17: Tính đa hình trong OOP.
     - Tổng quan nội dung.
     - Đối tượng (object) và thể hiện (instance).
     - Ghi đề trong đa hình.
     - Up-casting và Down-casting.
-- Buổi 18 (24/10): Ôn tập.
+- Buổi 18: Ôn tập.
     - Làm bài tập OOP 2.8 trên Notion.
     - Nghiên cứu về bài toán tìm kiếm và sắp xếp.
-- Buổi 19 (27/10): Tính trừu tượng trong OOP.
+- Buổi 19: Tính trừu tượng trong OOP.
     - Bài 2.10: Tính chất trừu tượng trong OOP.
-- Buổi 20 (29/10): Interface trong Java.
+- Buổi 20: Interface trong Java.
     - Bài 2.12: Interface trong Java.
 - Buổi 21 (03/11): Comparable và Comparator trong Java.
     - Bài 2.13: Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
+- Buổi 22 (05/11): Ôn tập kiến thức OOP.
+    - Bài 2.2: Lớp và đối tượng.
+    - Bài 2.3: Tính chất đóng gói trong OOP.
+    - Bài 2.5: Tính chất kế thừa trong OOP.
+    - Bài 2.8: Tính chất đa hình trong OOP.
+    - Bài 2.10: Tính chất trừu tượng trong OOP.
+    - Bài 2.12: Interface trong Java.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
