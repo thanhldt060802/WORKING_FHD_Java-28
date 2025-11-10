@@ -108,6 +108,9 @@
 - Buổi 23 (07/11): Xử lý ngoại lệ, xử lý tệp văn bản.
     - Bài 2.14: Xử lý ngoại lệ.
     - Bài 2.15: Xử lý tệp văn bản.
+- Buổi 24 (10/11): Xử lý tệp văn bản (tt), đọc và ghi đối tượng.
+    - Bài 2.15: Xử lý tệp văn bản (tt).
+    - Nghiên cứu mở rộng thao tác đọc và ghi đối tượng.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
