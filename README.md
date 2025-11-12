@@ -75,21 +75,21 @@
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
-- Buổi 13: Ôn tập.
+- Buổi 13: Làm bài tập.
     - Làm bài tập OOP 2.3 trên Notion.
 - Buổi 14: Nghiên cứu kiểu mảng động ArrayList.
     - Ôn tập thao tác với mảng tĩnh.
     - Nghiên cứu thao tác với mảng động ArrayList.
-- Buổi 15: Ôn tập.
+- Buổi 15: Làm bài tập.
     - Làm bài tập OOP 2.2 trên Notion.
-- Buổi 16: Ôn tập.
+- Buổi 16: Làm bài tập.
     - Làm bài tập OOP 2.2 trên Notion (tt).
 - Buổi 17: Tính đa hình trong OOP.
     - Tổng quan nội dung.
     - Đối tượng (object) và thể hiện (instance).
     - Ghi đề trong đa hình.
     - Up-casting và Down-casting.
-- Buổi 18: Ôn tập.
+- Buổi 18: Làm bài tập.
     - Làm bài tập OOP 2.8 trên Notion.
     - Nghiên cứu về bài toán tìm kiếm và sắp xếp.
 - Buổi 19: Tính trừu tượng trong OOP.
@@ -111,6 +111,8 @@
 - Buổi 24 (10/11): Xử lý tệp văn bản (tt), đọc và ghi đối tượng.
     - Bài 2.15: Xử lý tệp văn bản (tt).
     - Nghiên cứu mở rộng thao tác đọc và ghi đối tượng.
+- Buổi 25 (12/11): Làm bài tập.
+    - Làm bài tập OOP 2.14 trên Notion.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
