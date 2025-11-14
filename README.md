@@ -113,6 +113,9 @@
     - Nghiên cứu mở rộng thao tác đọc và ghi đối tượng.
 - Buổi 25 (12/11): Làm bài tập.
     - Làm bài tập OOP 2.14 trên Notion.
+- Buổi 26 (14/11): Làm bài tập, Ôn tập định nghĩa Abstraction và Interface.
+    - Làm bài tập OOP 2.14 trên Notion (tt).
+    - Chuẩn hoá lại khái niệm về Abstraction và Interface.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 

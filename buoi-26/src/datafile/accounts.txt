@@ -1,0 +1,3 @@
+tanthanh, 12345678, 139.450000
+hoangphuc, 123AA321, 56.000000
+hoangtam, def123xyz, 72.958600
