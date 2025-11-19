@@ -118,6 +118,8 @@
     - Chuẩn hoá lại khái niệm về Abstraction và Interface.
 - Buổi 27 (17/11): Lập trình Generic trong Java.
     - Bài 2.16: Lập trình Generic trong java.
+- Buổi 28 (19/11): Làm bài tập.
+    - Làm bài tập OOP 2.16 trên Notion.
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
